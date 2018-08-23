@@ -18,6 +18,7 @@ def context():
         'github_username': 'lacion',
         'app_name': 'MyTestProject',
         'project_short_description': 'A short description of the project.',
+        'year': 'This year',
         "use_git": "y"
     }
 

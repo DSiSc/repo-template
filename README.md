@@ -45,6 +45,7 @@ full_name [Lawrence Peerlink]: Lawrence Peerlink
 github_username [DSiSc]: DSiSc 
 app_name [mygolangproject]: echoserver
 project_short_description [A Golang project.]: Awesome Echo Server
+year [2018]: 2018
 use_git [y]: y
 ```
 
