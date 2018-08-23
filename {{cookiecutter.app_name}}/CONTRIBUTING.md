@@ -50,23 +50,23 @@ Ready to contribute? Here's how to set up `{{ cookiecutter.app_name }}` for loca
 1. Fork the `{{ cookiecutter.app_name }}` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/{{ cookiecutter.app_name }}.git
+        $ git clone git@github.com:your_name_here/{{ cookiecutter.app_name }}.git
 
 3. Create a branch for local development::
 
-    $ git checkout -b name-of-your-bugfix-or-feature
+        $ git checkout -b name-of-your-bugfix-or-feature
 
    Now you can make your changes locally.
 
 4. When you're done making changes, check that your changes pass the tests::
 
-    $ make test
+        $ make test
 
-6. Commit your changes and push your branch to GitHub::
+6. Commit your changes and push your branch to GitHub, We use [Angular Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines), Thanks for Angular good job.::
 
-    $ git add .
-    $ git commit -m "Your detailed description of your changes."
-    $ git push origin name-of-your-bugfix-or-feature
+        $ git add .
+        $ git commit -m "Your detailed description of your changes."
+        $ git push origin name-of-your-bugfix-or-feature
 
 7. Submit a pull request through the GitHub website.
 
