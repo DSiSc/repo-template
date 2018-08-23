@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright IBM Corp. All Rights Reserved.
+# Copyright(c) {{cookiecutter.year}} {{cookiecutter.app_name}} Group. All Rights Reserved.
 #
 # SPDX-License-Identifier: Apache-2.0
 #
