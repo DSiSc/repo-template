@@ -1,5 +1,7 @@
 # repo-template
 
+[![Build Status](https://circleci.com/gh/DSiSc/repo-template/tree/master.svg?style=shield)](https://circleci.com/gh/DSiSc/repo-template/tree/master)
+
 Fork From [Cookiecutter](https://github.com/audreyr/cookiecutter), Cookiecutter Golang is a framework for jumpstarting production-ready go projects quickly.
 
 ## Features
