@@ -1,4 +1,4 @@
-# repotemplate-golang
+# repo-template
 
 Fork From [Cookiecutter](https://github.com/audreyr/cookiecutter), Cookiecutter Golang is a framework for jumpstarting production-ready go projects quickly.
 
@@ -32,7 +32,7 @@ $ brew install cookiecutter
 
 finally to run it based on this template just:
 ```console
-$ cookiecutter https://github.com/DSiSc/repotemplate-golang.git
+$ cookiecutter https://github.com/DSiSc/repo-template.git
 ```
 
 You will be asked about your basic info (name, project name, app name, etc.). This info will be used to customize your new project.
