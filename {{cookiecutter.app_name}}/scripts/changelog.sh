@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Copyright(c) {{cookiecutter.year}} {{cookiecutter.app_name}} Group. All Rights Reserved.
+# Copyright(c) {{cookiecutter.year}} {{cookiecutter.github_username}} Group. All Rights Reserved.
 #
 # SPDX-License-Identifier: Apache-2.0
 #

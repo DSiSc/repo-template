@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright IBM Corp, SecureKey Technologies Inc. All Rights Reserved.
+# Copyright(c) {{cookiecutter.year}} {{cookiecutter.github_username}} Corp, SecureKey Technologies Inc. All Rights Reserved.
 #
 # SPDX-License-Identifier: Apache-2.0
 #
